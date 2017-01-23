@@ -8,5 +8,6 @@
 * [Hash 和 HashWithIndifferentAccess](hash.md)
 * [Model.find 和 Model.find_by](find.md)
 * [Polymorphic Association](poly.md)
+* [如何指定 /beer/(beer\_type) 這種 route](beer_type.md)
 * [CSRF 是什麼](csrf.md)
 * [XSS 是什麼](xss.md)
