@@ -21,3 +21,6 @@
 參考資料
 
 * [Ruby on Rails 實戰聖經](https://ihower.tw/rails/)
+* [8 Essential Ruby on Rails Interview Questions](https://www.toptal.com/ruby-on-rails/interview-questions)
+* [11 Ruby on Rails Interview Practice Questions](https://www.codementor.io/ruby-on-rails/tutorial/ruby-on-rails-interview-questions)
+* [15 Questions to Ask During a Ruby Interview](https://gist.github.com/ryansobol/5252653)
