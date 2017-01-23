@@ -1,3 +1,4 @@
-# My Awesome Book
+# 常見的 Ruby on Rails 工程師面試問題
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+收錄一些業界常見／常問的面試問題和翻譯解答
+
