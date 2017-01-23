@@ -17,3 +17,7 @@
 * [Hash 和 HashWithIndifferentAccess](hash.md)
 * [CSRF 是什麼](csrf.md)
 * [XSS 是什麼](xss.md)
+
+參考資料
+
+* [Ruby on Rails 實戰聖經](https://ihower.tw/rails/)
