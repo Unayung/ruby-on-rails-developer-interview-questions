@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Symbol 和 String](symbolstring.md)
 * [proc 和 lambda](proc--lambda.md)
 * [include 和 extend](include--extend.md)
 * [instance\_eval 和 class\_eval](instanceeval--classeval.md)
