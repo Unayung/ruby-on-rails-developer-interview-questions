@@ -6,6 +6,8 @@
 
 有需要改正或有什麼要新增 / 補充的地方也請大家發 PR
 
+[開始閱讀](https://unayung.gitbooks.io/ruby-on-rails-developer-interview-questions/content/)
+
 source 在 [Github](https://github.com/Unayung/ruby-on-rails-developer-interview-questions)
 
 ---
