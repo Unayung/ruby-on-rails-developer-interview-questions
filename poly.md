@@ -1,4 +1,4 @@
-# Polymorphic Association 多型關聯
+# 什麼是 Polymorphic Association 多型關聯
 
 使用場景例如，你的網站上有圖片 (Image) 和影片 (Video) 兩種 model，而 PM 告訴你，他想要讓這兩種 model 都可以留言 (Comment)
 
