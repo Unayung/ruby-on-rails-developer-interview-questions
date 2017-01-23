@@ -10,7 +10,7 @@ CSRF - Cross-Site Request Forgery 是指攻擊者惡意在可插入程式片段�
 
 如何防範 CSRF 攻擊呢? 首先從 routes 的角度來設計。
 
-> 所有讀取、查詢性質操作，都應該用 _GET_，而會修改或刪除到資料的，則要用 _POST_ 、 _PATCH/PUT_ 或 _DELETE_ 。這樣的設計，就可以防止上面的惡意程式碼了，因為在瀏覽器中必須用表單 _form_ 才能送出 _POST_ 請求。 from [Rails實戰聖經](https://ihower.tw/rails/security.html#sec1)
+> 所有讀取、查詢性質操作，都應該用 _GET_，而會修改或刪除到資料的，則要用 _POST_ 、 _PATCH/PUT_ 或 _DELETE_ 。這樣的設計，就可以防止上面的惡意程式碼了，因為在瀏覽器中必須用表單 _form_ 才能送出 _POST_ 請求。 from [Ruby on Rails實戰聖經](https://ihower.tw/rails/security.html#sec1)
 
 而從 Rails 架構本身的防範來說，我們可以使用 protect_from_forgery 這個 method 來阻擋攻擊
 
