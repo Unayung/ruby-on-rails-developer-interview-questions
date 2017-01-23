@@ -19,6 +19,7 @@ source 在 [Github](https://github.com/Unayung/ruby-on-rails-developer-interview
 * [instance\_eval 和 class\_eval](instanceeval--classeval.md)
 * [resouce 和 resources](resouce--resources.md)
 * [Hash 和 HashWithIndifferentAccess](hash.md)
+* [什麼是 Polymorphic Association](poly.md)
 * [什麼是Polymorphic Association](poly.md)
 * [Model.find 和 Model.find_by](find.md)
 * [N+1 Query](nplusone.md)
