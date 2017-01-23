@@ -17,6 +17,7 @@ source 在 [Github](https://github.com/Unayung/ruby-on-rails-developer-interview
 * [instance\_eval 和 class\_eval](instanceeval--classeval.md)
 * [resouce 和 resources](resouce--resources.md)
 * [Hash 和 HashWithIndifferentAccess](hash.md)
+* [Model.find 和 Model.find_by](find.md)
 * [CSRF 是什麼](csrf.md)
 * [XSS 是什麼](xss.md)
 
