@@ -4,7 +4,7 @@
 
 解答不見得完整和精確，但在面試的環境下回答應該是足夠的
 
-有需要改正的地方也請大家發 PR 或指教
+有需要改正或有什麼要新增 / 補充的地方也請大家發 PR
 
 source 在 [Github](https://github.com/Unayung/ruby-on-rails-developer-interview-questions)
 
