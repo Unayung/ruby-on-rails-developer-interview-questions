@@ -19,8 +19,10 @@ source 在 [Github](https://github.com/Unayung/ruby-on-rails-developer-interview
 * [Hash 和 HashWithIndifferentAccess](hash.md)
 * [Model.find 和 Model.find_by](find.md)
 * [Polymorphic Association](poly.md)
+* [如何用單一 action 套用 /beer/(beer\_type) 這種 route](beer_type.md)
 * [CSRF 是什麼](csrf.md)
 * [XSS 是什麼](xss.md)
+
 
 
 參考資料
