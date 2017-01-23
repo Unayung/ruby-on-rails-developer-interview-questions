@@ -1,0 +1,1 @@
+# resource 和 resources 的差別
