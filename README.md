@@ -22,14 +22,12 @@ source 在 [Github](https://github.com/Unayung/ruby-on-rails-developer-interview
 * [resouce 和 resources](resouce--resources.md)
 * [Hash 和 HashWithIndifferentAccess](hash.md)
 * [什麼是 Polymorphic Association](poly.md)
-* [Model.find 和 Model.find_by](find.md)
+* [Model.find 和 Model.find\_by](find.md)
 * [N+1 Query](nplusone.md)
-* [如何用單一 action 套用 /beer/(beer\_type) 這種 route](beer_type.md)
+* [如何用單一 action 套用 /beer/\(beer\_type\) 這種 route](beer_type.md)
 * [如何讓 Person model 可以指定另一個 person 為 parent](person.md)
 * [CSRF 是什麼](csrf.md)
 * [XSS 是什麼](xss.md)
-
-
 
 參考資料
 
@@ -37,3 +35,14 @@ source 在 [Github](https://github.com/Unayung/ruby-on-rails-developer-interview
 * [8 Essential Ruby on Rails Interview Questions](https://www.toptal.com/ruby-on-rails/interview-questions)
 * [11 Ruby on Rails Interview Practice Questions](https://www.codementor.io/ruby-on-rails/tutorial/ruby-on-rails-interview-questions)
 * [15 Questions to Ask During a Ruby Interview](https://gist.github.com/ryansobol/5252653)
+
+版權許可 
+
+採用創用CC授權4.0 "姓名標示─非商業性─相同方式分享(BY-NC-SA)" 授權。
+
+![license](./cc-by-nc-sa.png)
+
+本授權條款允許使用者重製、散布、傳輸以及修改著作，但不得為商業目的之使用。若使用者修改該著作時，僅得依本授權條款或與本授權條款類似者來散布該衍生作品。使用時必須按照著作人指定的方式表彰其姓名。
+
+詳細資訊請參考 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。
+
