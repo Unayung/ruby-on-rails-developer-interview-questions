@@ -8,6 +8,7 @@
 * [resouce 和 resources](resouce--resources.md)
 * [Hash 和 HashWithIndifferentAccess](hash.md)
 * [Model.find 和 Model.find_by](find.md)
+* [redirect_to 和 render](redirect.md)
 * [什麼是 Polymorphic Association](poly.md)
 * [N+1 Query](nplusone.md)
 * [為什麼要有 Migration 檔案](migration.md)
@@ -17,11 +18,3 @@
 * [請解釋對字串使用 += 和使用 concat 方法有何差異](concat.md)
 * [CSRF 是什麼](csrf.md)
 * [XSS 是什麼](xss.md)
-
-
-
-
-
-
-
-
