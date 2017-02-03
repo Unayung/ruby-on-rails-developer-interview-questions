@@ -13,7 +13,7 @@ hefeweizen
 
 ```ruby
 kinds = %w|IPA brown_ale pilsner lager lambic hefweizen|
-resource :beer, only: [:show], constraints: {id: Regexp.new(kinds.join('|'))}
+resources :beer, only: [:show], constraints: {id: Regexp.new(kinds.join('|'))}
 
 rails routes
 
