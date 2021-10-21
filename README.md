@@ -26,6 +26,7 @@ source 在 [Github](https://github.com/Unayung/ruby-on-rails-developer-interview
 * [什麼是 Polymorphic Association](poly.md)
 * [N+1 Query](nplusone.md)
 * [為什麼要有 Migration 檔案](migration.md)
+* [Transaction 是什麼](transaction.md)
 * [如何用單一 action 套用 /beer/(beer\_type) 這種 route](beer_type.md)
 * [如何讓 Person model 可以指定另一個 person 為 parent](person.md)
 * [請解釋這個語法 a ||= b](aorequalb.md)

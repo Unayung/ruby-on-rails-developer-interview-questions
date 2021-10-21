@@ -12,6 +12,7 @@
 * [什麼是 Polymorphic Association](poly.md)
 * [N+1 Query](nplusone.md)
 * [為什麼要有 Migration 檔案](migration.md)
+* [Transaction 是什麼](transaction.md)
 * [如何用單一 action 套用 /beer/(beer\_type) 這種 route](beer_type.md)
 * [如何讓 Person model 可以指定另一個 person 為 parent](person.md)
 * [請解釋這個語法 a ||= b](aorequalb.md)
@@ -20,4 +21,5 @@
 * [XSS 是什麼](xss.md)
 * [資料庫的 INDEX 是什麼](index.md)
 * [資料庫的 ACID 是什麼](acid.md)
+* [資料庫的 Database Isolation Level 是什麼](dil.md)
 * [資料庫的 Database Isolation Level 是什麼](dil.md)
