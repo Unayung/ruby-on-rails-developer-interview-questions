@@ -32,6 +32,9 @@ source 在 [Github](https://github.com/Unayung/ruby-on-rails-developer-interview
 * [請解釋對字串使用 += 和使用 concat 方法有何差異](concat.md)
 * [CSRF 是什麼](csrf.md)
 * [XSS 是什麼](xss.md)
+* [資料庫的 INDEX 是什麼](index.md)
+* [資料庫的 ACID 是什麼](acid.md)
+* [資料庫的 Database Isolation Level 是什麼](dil.md)
 
 參考資料
 
@@ -40,7 +43,7 @@ source 在 [Github](https://github.com/Unayung/ruby-on-rails-developer-interview
 * [11 Ruby on Rails Interview Practice Questions](https://www.codementor.io/ruby-on-rails/tutorial/ruby-on-rails-interview-questions)
 * [15 Questions to Ask During a Ruby Interview](https://gist.github.com/ryansobol/5252653)
 
-版權許可 
+版權許可
 
 採用創用CC授權4.0 "姓名標示─非商業性─相同方式分享(BY-NC-SA)" 授權。
 
